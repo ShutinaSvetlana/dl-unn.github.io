@@ -25,7 +25,7 @@
 
 | Name                                                               | Test accuracy  | K  | Distance | Features                           |
 |--------------------------------------------------------------------|----------------|----|----------|------------------------------------|
-| Shutina Svetlana                                                   | ?              | 10 | L2       | ?                                  |
+| Shutina Svetlana                                                   | 0.5947         | 20 | Cosine   | Raw                                  |
 | Gribov Pavel                                                       | ?              | 3  | L2       | ?                                  |
 | Romanov Alexander                                                  | ?              | 1  | L2       | ?                                  |
 | Mayachkin Arseniy                                                  | ?              | 7  | L2       | ?                                  |
